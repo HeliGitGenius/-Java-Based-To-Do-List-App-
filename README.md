@@ -31,7 +31,7 @@ The **To-Do List App** is a simple yet powerful desktop application built using 
 ## 📥 **Installation and Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   https://github.com/HeliGitGenius/-Java-Based-To-Do-List-App-.git
    ```
 2. Navigate to the project folder:
    ```bash
